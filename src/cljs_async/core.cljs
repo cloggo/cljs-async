@@ -1,4 +1,4 @@
-(ns async.async.core
+(ns cljs-async.core
   (:require-macros
    [async.async.core :as async]
    [cljs.core.async]

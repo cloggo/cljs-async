@@ -1,4 +1,4 @@
-(ns async.async.core
+(ns cljs-async.core
   #?(:clj
      (:require
       [async-error.core]

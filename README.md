@@ -1,3 +1,3 @@
 ## async
 
-extra functions to use with core.async
+extra functions extending core.async
