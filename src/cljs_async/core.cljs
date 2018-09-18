@@ -1,6 +1,6 @@
 (ns cljs-async.core
   (:require-macros
-   [async.async.core :as async]
+   [cljs-async.core :as async]
    [cljs.core.async]
    [async-error.core]
    [clojure.core.async])
