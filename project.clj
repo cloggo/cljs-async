@@ -1,4 +1,4 @@
-(defproject org.clojars.cloggo/cljs-async "0.1.0-SNAPSHOT"
+(defproject org.clojars.cloggo/cljs-async "0.1.1"
   :description "extra functions extending core.async"
   :url "https://github.com/cloggo/cljs-async"
   :license {:name "MIT" }
