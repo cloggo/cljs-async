@@ -3,7 +3,6 @@
    [async.async.core :as async]
    [clojure.core.async])
   (:require
-   [clojure.core.async]
    [async-error.core]
    [cljs.core.async]
    [clojure.string :as s]
